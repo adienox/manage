@@ -15,7 +15,9 @@ const Navbar = () => {
     <div className="container relative mx-auto p-6">
       <div className="flex items-center justify-between">
         <div className="pt-2">
-          <Image src={Logo} alt="logo" />
+          <Link href="/">
+            <Image src={Logo} alt="logo" />
+          </Link>
         </div>
         <div className=" hidden space-x-6 md:flex">
           <Link href="#" className="hover:text-darkGrayishBlue">
