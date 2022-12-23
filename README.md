@@ -1,4 +1,5 @@
-# Project Description
+[![manage](https://user-images.githubusercontent.com/95954371/209279312-2005e86b-6f93-4c2a-aad5-8d42ee0743b0.png)](https://adiemanage.netlify.app)
+
 
 This project is a reactjs based application that utilizes react hooks for state management and the nextjs framework for structure and performance. Styling is implemented using tailwind, ensuring a consistent and visually appealing design. A priority of this project was to make it mobile friendly, ensuring that it can be easily accessed and used on any device.
 
