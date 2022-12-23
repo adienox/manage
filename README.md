@@ -3,11 +3,12 @@
 
 This project is a reactjs based application that utilizes react hooks for state management and the nextjs framework for structure and performance. Styling is implemented using tailwind, ensuring a consistent and visually appealing design. A priority of this project was to make it mobile friendly, ensuring that it can be easily accessed and used on any device.
 
-The project is hosted on netlify, providing a reliable and efficient platform for hosting and deploying the application.
+The project is hosted on netlify, providing a reliable and efficient platform for hosting and deploying the application. To view this project, head on over to https://adiemanage.netlify.app
 
 ## Features
 
 - Reactjs based
+- Uses Typescript for typechecking
 - Utilizes react hooks for state management
 - Nextjs framework for structure and performance
 - Tailwind styling
@@ -19,7 +20,7 @@ The project is hosted on netlify, providing a reliable and efficient platform fo
 To get started with this project, you will need to clone the repository and install the necessary dependencies.
 
 ```
-git clone https://github.com/[username]/[repository].git
+git clone https://github.com/adienox/manage.git
 npm install
 ```
 
